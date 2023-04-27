@@ -64,7 +64,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Contact List</h1>
+      <h1>Contact list</h1>
       <form onSubmit={handleSubmit}>
         <div className="row">
           <div className="col-sm-4">
